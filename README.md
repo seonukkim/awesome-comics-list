@@ -13,7 +13,7 @@ Warning: I handle only works that I have personally reviewed and selected.
 | :--- | :--- | :---: | :--- |
 | Tokyo Ghoul | 東京喰種 | Fantasy | [[INFO]](https://anilist.co/manga/63327/Tokyo-Ghoul/) [[JAP]](https://shonenjumpplus.com/episode/13932016480028833022) [[ENG]](https://www.kobo.com/us/en/series/tokyo-ghoul?fcmedia=Book) |
 | Tokyo Ghoul: re | 東京喰種：re | Fantasy | [[INFO]](https://anilist.co/manga/85611/Tokyo-Ghoulre/) [[JAP]](https://shonenjumpplus.com/episode/3269754496641954125) [[ENG]](https://www.kobo.com/us/en/series/tokyo-ghoul-re?fcmedia=Book) |
-| Boy's Abyss | 少年のアビス | Drama [[INFO]](https://anilist.co/manga/116186/Shounen-no-Abyss/) [[JAP]](https://shonenjumpplus.com/episode/3269754496595874877) [[ENG]](https://www.kobo.com/us/en/series/boy-s-abyss-2?fcmedia=Book) |
+| Boy's Abyss | 少年のアビス | Drama | [[INFO]](https://anilist.co/manga/116186/Shounen-no-Abyss/) [[JAP]](https://shonenjumpplus.com/episode/3269754496595874877) [[ENG]](https://www.kobo.com/us/en/series/boy-s-abyss-2?fcmedia=Book) |
 | Asako | あさこ | Drama | [[INFO]](https://anilist.co/manga/113622/Asako/) [[JAP]](https://youngchampion.jp/series/3625547de6616) |
 | To be continue... | | | |
 
