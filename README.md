@@ -4,13 +4,17 @@ Warning: I handle only works that I have personally reviewed and selected.
 ## manhwa (Korea)
 | title | title (original) | genre | url |
 | :--- | :--- | :---: | :--- |
-| The Stellar Swordmaster | 별을 품은 소드마스터 | Fantasy | [[INFO]](https://anilist.co/manga/170400/Byeoreul-Pumeun-Swordmaster) [[ENG]](https://www.webtoons.com/en/action/the-stellar-swordmaster/list?title_no=5988) [[KOR]](https://comic.naver.com/webtoon/list?titleId=816809) |
-| The Regressed Mercenary Has a Plan | 회귀한 용병은 다 계획이 있다 | Fantasy | [[INFO]](https://anilist.co/manga/182066/Hoegwihan-Yongbyeongeun-Da-Gyehoegi-Itda/) [[ENG]](https://www.webtoons.com/en/action/the-regressed-mercenary-has-a-plan/list?title_no=7261) [[KOR]](https://comic.naver.com/webtoon/list?titleId=832557) |
+| The Stellar Swordmaster | 별을 품은 소드마스터 | Fantasy | [[INFO]](https://anilist.co/manga/170400/Byeoreul-Pumeun-Swordmaster) [[KOR]](https://comic.naver.com/webtoon/list?titleId=816809) [[ENG]](https://www.webtoons.com/en/action/the-stellar-swordmaster/list?title_no=5988) |
+| The Regressed Mercenary Has a Plan | 회귀한 용병은 다 계획이 있다 | Fantasy | [[INFO]](https://anilist.co/manga/182066/Hoegwihan-Yongbyeongeun-Da-Gyehoegi-Itda/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=832557) [[ENG]](https://www.webtoons.com/en/action/the-regressed-mercenary-has-a-plan/list?title_no=7261) |
 | To be continue... | | | |
 
 ## manga (Japan)
 | title | title (original) | genre | url |
 | :--- | :--- | :---: | :--- |
+| Tokyo Ghoul | 東京喰種 | Fantasy | [[INFO]](https://anilist.co/manga/63327/Tokyo-Ghoul/) [[JAP]](https://shonenjumpplus.com/episode/13932016480028833022) [[ENG]](https://www.kobo.com/us/en/series/tokyo-ghoul?fcmedia=Book) |
+| Tokyo Ghoul: re | 東京喰種：re | Fantasy | [[INFO]](https://anilist.co/manga/85611/Tokyo-Ghoulre/) [[JAP]](https://shonenjumpplus.com/episode/3269754496641954125) [[ENG]](https://www.kobo.com/us/en/series/tokyo-ghoul-re?fcmedia=Book) |
+| Boy's Abyss | 少年のアビス | Drama [[INFO]](https://anilist.co/manga/116186/Shounen-no-Abyss/) [[JAP]](https://shonenjumpplus.com/episode/3269754496595874877) [[ENG]](https://www.kobo.com/us/en/series/boy-s-abyss-2?fcmedia=Book) |
+| Asako | あさこ | Drama | [[INFO]](https://anilist.co/manga/113622/Asako/) [[JAP]](https://youngchampion.jp/series/3625547de6616) |
 | To be continue... | | | |
 
 ## anime
