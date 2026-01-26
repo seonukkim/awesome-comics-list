@@ -20,8 +20,8 @@ Warning: I handle only works that I have personally reviewed and selected.
 
 ## anime
 | title | title (original) | genre | url |
-| GACHIAKUTA | ガチアクタ | Fantasy | [[PV]](https://youtu.be/VpMwWDgZqtI) |
 | :--- | :--- | :---: | :--- |
+| GACHIAKUTA | ガチアクタ | Fantasy | [[PV]](https://youtu.be/VpMwWDgZqtI) |
 | To be continue... | | | |
 
 <!-- | GACHIAKUTA Season 2 | ガチアクタ 第2期 | Fantasy | | -->
