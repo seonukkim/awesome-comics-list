@@ -15,9 +15,12 @@ Warning: I handle only works that I have personally reviewed and selected.
 | Tokyo Ghoul: re | 東京喰種：re | Fantasy | [[INFO]](https://anilist.co/manga/85611/Tokyo-Ghoulre/) [[JAP]](https://shonenjumpplus.com/episode/3269754496641954125) [[ENG]](https://www.kobo.com/us/en/series/tokyo-ghoul-re?fcmedia=Book) |
 | Boy's Abyss | 少年のアビス | Drama | [[INFO]](https://anilist.co/manga/116186/Shounen-no-Abyss/) [[JAP]](https://shonenjumpplus.com/episode/3269754496595874877) [[ENG]](https://www.kobo.com/us/en/series/boy-s-abyss-2?fcmedia=Book) |
 | Asako | あさこ | Drama | [[INFO]](https://anilist.co/manga/113622/Asako/) [[JAP]](https://youngchampion.jp/series/3625547de6616) |
+| GACHIAKUTA | ガチアクタ | Fantasy | [[INFO]](https://anilist.co/manga/144946/Gachiakuta/) [[JAP]](https://pocket.shonenmagazine.com/title/01672/episode/337756) [[ENG]](https://www.kobo.com/us/en/series/gachiakuta-3?fcmedia=Book) |
 | To be continue... | | | |
 
 ## anime
 | title | title (original) | genre | url |
+| GACHIAKUTA | ガチアクタ | Fantasy | [[PV]](https://youtu.be/VpMwWDgZqtI) |
+<!-- | GACHIAKUTA Season 2 | ガチアクタ 第2期 | Fantasy | | -->
 | :--- | :--- | :---: | :--- |
 | To be continue... | | | |
