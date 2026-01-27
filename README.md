@@ -7,6 +7,12 @@ Warning: I handle only works that I have personally reviewed and selected.
 | The Stellar Swordmaster | 별을 품은 소드마스터 | Fantasy | [[INFO]](https://anilist.co/manga/170400/Byeoreul-Pumeun-Swordmaster) [[KOR]](https://comic.naver.com/webtoon/list?titleId=816809) [[ENG]](https://www.webtoons.com/en/action/the-stellar-swordmaster/list?title_no=5988) |
 | The Regressed Mercenary Has a Plan | 회귀한 용병은 다 계획이 있다 | Fantasy | [[INFO]](https://anilist.co/manga/182066/Hoegwihan-Yongbyeongeun-Da-Gyehoegi-Itda/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=832557) [[ENG]](https://www.webtoons.com/en/action/the-regressed-mercenary-has-a-plan/list?title_no=7261) |
 | Return of the Mad Demon | 광마회귀 | Wuxia | [[INFO]](https://anilist.co/manga/137304/Gwangmahoegwi/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=776601) [[ENG]](https://www.webtoons.com/en/historical/return-of-the-mad-demon/list?title_no=3671) |
+| The Swordmaster's Son | 검술명가 막내아들 | Fantasy | [[INFO]](https://anilist.co/manga/149332/Geomsulmyeongga-Mangnaeadeul/) [[KOR]](https://page.kakao.com/content/59264548) [[ENG]](https://tapas.io/series/the-swordmasters-son/info) |
+| Shadow of the Supreme | 천하제일인의 소꿉친구 | Wuxia | [[INFO]](https://anilist.co/manga/180890/Cheonhajeirinui-Sokkupchingu/) [[KOR]](https://page.kakao.com/content/64688681) [[ENG]](https://tapas.io/series/shadow-of-the-supreme/info) |
+| The Bastard of Swordborne | 회귀검가의 서자가 사는 법 | Fantasy | [[INFO]](https://anilist.co/manga/183855/Hoegwigeomgaui-Seojaga-Saneun-Beop/) [[KOR]](https://page.kakao.com/content/65125886) [[ENG]](https://tapas.io/series/the-bastard-of-swordborne/info) |
+| The Fantasie Of A Stepmother | 어떤 계모님의 메르헨 | Romance | [[INFO]](https://anilist.co/manga/111075/Eotteon-Gyemonimui-Marchen/) [[KOR]](https://page.kakao.com/content/52854258) [[ENG]](https://tapas.io/series/the-fantasie-of-a-stepmother/info) |
+| On the Way to Meet Mom | 엄마를 만나러 가는 길 | Fantasy | [[INFO]](https://anilist.co/manga/187189/Eommareul-Mannareo-Ganeun-Gil/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=834369) [[ENG]](https://www.webtoons.com/en/fantasy/on-the-way-to-meet-mom/list?title_no=7525) |
+| Delusion | 현혹 | Thriller | [[INFO]](https://anilist.co/manga/121775/Hyeonhok/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=734040) [[ENG]](https://www.webtoons.com/en/thriller/delusion/list?title_no=2470) |
 | To be continue... | | | |
 
 ## manga (Japan)
@@ -23,6 +29,9 @@ Warning: I handle only works that I have personally reviewed and selected.
 ## anime
 | title | title (original) | genre | url |
 | :--- | :--- | :---: | :--- |
+| Violet Evergarden | ヴァイオレット・エヴァーガーデン | Drama | [[PV]](https://youtu.be/g5xWqjFglsk) |
+| Violet Evergarden: Eternity and the Auto Memory Doll | ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 - | Drama | [[PV]](https://youtu.be/lWRXk7nOhsE) |
+| Violet Evergarden: The Movie | 劇場版 ヴァイオレット・エヴァーガーデン | Drama | [[PV]](https://youtu.be/Zy1K_gDXUOE) |
 | GACHIAKUTA | ガチアクタ | Fantasy | [[PV]](https://youtu.be/VpMwWDgZqtI) |
 | To be continue... | | | |
 
