@@ -1,5 +1,9 @@
 # awesome-comics-list
 Warning: I handle only works that I have personally reviewed and selected.
+Translated versions of comics marked with (-) have not been officially released.
+
+경고: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스트입니다.
+(-) 표시는 정식 만화번역본이 없어 공식 제목이 없는 경우를 의미합니다.
 
 ## manhwa (Korea)
 | title | title (original) | genre | url |
@@ -16,14 +20,19 @@ Warning: I handle only works that I have personally reviewed and selected.
 | To be continue... | | | |
 
 ## manga (Japan)
-| title | title (original) | genre | url |
-| :--- | :--- | :---: | :--- |
-| Tokyo Ghoul | 東京喰種 | Fantasy | [[INFO]](https://anilist.co/manga/63327/Tokyo-Ghoul/) [[JAP]](https://shonenjumpplus.com/episode/13932016480028833022) [[ENG]](https://www.kobo.com/us/en/series/tokyo-ghoul?fcmedia=Book) |
-| Tokyo Ghoul: re | 東京喰種：re | Fantasy | [[INFO]](https://anilist.co/manga/85611/Tokyo-Ghoulre/) [[JAP]](https://shonenjumpplus.com/episode/3269754496641954125) [[ENG]](https://www.kobo.com/us/en/series/tokyo-ghoul-re?fcmedia=Book) |
-| Boy's Abyss | 少年のアビス | Drama | [[INFO]](https://anilist.co/manga/116186/Shounen-no-Abyss/) [[JAP]](https://shonenjumpplus.com/episode/3269754496595874877) [[ENG]](https://www.kobo.com/us/en/series/boy-s-abyss-2?fcmedia=Book) |
-| Asako | あさこ | Drama | [[INFO]](https://anilist.co/manga/113622/Asako/) [[JAP]](https://youngchampion.jp/series/3625547de6616) |
-| GACHIAKUTA | ガチアクタ | Fantasy | [[INFO]](https://anilist.co/manga/144946/Gachiakuta/) [[JAP]](https://pocket.shonenmagazine.com/title/01672/episode/337756) [[ENG]](https://www.kobo.com/us/en/series/gachiakuta-3?fcmedia=Book) |
-| Kagurabachi | カグラバチ | Action | [[INFO]](https://anilist.co/manga/169355/Kagurabachi/) [[JAP]](https://shonenjumpplus.com/episode/17106371875870549182) [[ENG]](https://www.kobo.com/us/en/series/kagurabachi?fcmedia=Book) |
+| title | title (original) | title (Korean) | genre | url |
+| :--- | :--- | :--- | :---: | :--- |
+| ONE PIECE | ワンピース | 원피스 | Adventure | [[INFO]](https://anilist.co/manga/30013/ONE-PIECE/) [[JAP]](https://shonenjumpplus.com/episode/10833519556325021794) [[ENG]](https://www.kobo.com/ww/en/series/one-piece?fcmedia=Book) [[KOR]](https://ridibooks.com/books/1019000209) |
+| NARUTO | ナルト | 나루토 | Fantasy | [[INFO]](https://anilist.co/manga/30011/NARUTO/) [[JAP]](https://shonenjumpplus.com/episode/10833519556325021854) [[ENG]](https://www.kobo.com/ww/en/series/naruto?fcmedia=Book) [[KOR]](https://ridibooks.com/books/1019000001) |
+| BLEACH | ブリーチ | 블리치 | Fastasy | [[INFO]](https://anilist.co/manga/30012/BLEACH/) [[JAP]](https://shonenjumpplus.com/episode/10833519556325021930) [[ENG]](https://www.kobo.com/ww/en/series/bleach?fcmedia=Book) [[KOR]](https://ridibooks.com/books/1019000158) |
+| HUNTER×HUNTER | ハンター×ハンター | 헌터×헌터 | Adventure | [[INFO]](https://anilist.co/manga/30026/HUNTERHUNTER/) [[JAP]](https://shonenjumpplus.com/episode/10833519556325021810) [[ENG]](https://www.kobo.com/ww/en/series/hunter-x-hunter?fcmedia=Book) [[KOR]](https://ridibooks.com/books/1019008200) |
+| Fullmetal Alchemist | 鋼の錬金術師 | 강철의 연금술사 | Fantasy | [[INFO]]() [[JAP]](https://www.ganganonline.com/title/586) [[ENG]](https://www.kobo.com/ww/en/series/fullmetal-alchemist?fcmedia=Book) [[KOR]](https://ridibooks.com/books/505010468) |
+| Tokyo Ghoul | 東京喰種 | 도쿄 구울 | Fantasy | [[INFO]](https://anilist.co/manga/63327/Tokyo-Ghoul/) [[JAP]](https://shonenjumpplus.com/episode/13932016480028833022) [[ENG]](https://www.kobo.com/us/en/series/tokyo-ghoul?fcmedia=Book) [[KOR]](https://ridibooks.com/books/1019072775) |
+| Tokyo Ghoul: re | 東京喰種：re | 도쿄 구울: re | Fantasy | [[INFO]](https://anilist.co/manga/85611/Tokyo-Ghoulre/) [[JAP]](https://shonenjumpplus.com/episode/3269754496641954125) [[ENG]](https://www.kobo.com/us/en/series/tokyo-ghoul-re?fcmedia=Book) [[KOR]](https://ridibooks.com/books/1019072789) |
+| Boy's Abyss | 少年のアビス | 소년의 어비스(-) | Drama | [[INFO]](https://anilist.co/manga/116186/Shounen-no-Abyss/) [[JAP]](https://shonenjumpplus.com/episode/3269754496595874877) [[ENG]](https://www.kobo.com/us/en/series/boy-s-abyss-2?fcmedia=Book) |
+| Asako | あさこ | 아사코(-) | Drama | [[INFO]](https://anilist.co/manga/113622/Asako/) [[JAP]](https://youngchampion.jp/series/3625547de6616) |
+| GACHIAKUTA | ガチアクタ | 가치아쿠타 | Fantasy | [[INFO]](https://anilist.co/manga/144946/Gachiakuta/) [[JAP]](https://pocket.shonenmagazine.com/title/01672/episode/337756) [[ENG]](https://www.kobo.com/us/en/series/gachiakuta-3?fcmedia=Book) [[KOR]](https://ridibooks.com/books/505081850) |
+| Kagurabachi | カグラバチ | 카구라바치 | Action | [[INFO]](https://anilist.co/manga/169355/Kagurabachi/) [[JAP]](https://shonenjumpplus.com/episode/17106371875870549182) [[ENG]](https://www.kobo.com/us/en/series/kagurabachi?fcmedia=Book) [[KOR]](https://ridibooks.com/books/1019095924) |
 | To be continue... | | | |
 
 ## anime
