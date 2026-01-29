@@ -1,8 +1,8 @@
 # awesome-comics-list
-Warning: I handle only works that I have personally reviewed and selected.
+Warning: I handle only works that I have personally reviewed and selected. </br>
 Translated versions of comics marked with (-) have not been officially released.
 
-경고: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스트입니다.
+경고: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스트입니다. </br>
 (-) 표시는 정식 만화번역본이 없어 공식 제목이 없는 경우를 의미합니다.
 
 ## manhwa (Korea)
