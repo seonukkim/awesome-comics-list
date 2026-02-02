@@ -19,6 +19,9 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | The Fantasie Of A Stepmother | 어떤 계모님의 메르헨 | Romance | [[INFO]](https://anilist.co/manga/111075/Eotteon-Gyemonimui-Marchen/) [[KOR]](https://page.kakao.com/content/52854258) [[ENG]](https://tapas.io/series/the-fantasie-of-a-stepmother/info) |
 | On the Way to Meet Mom | 엄마를 만나러 가는 길 | Fantasy | [[INFO]](https://anilist.co/manga/187189/Eommareul-Mannareo-Ganeun-Gil/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=834369) [[ENG]](https://www.webtoons.com/en/fantasy/on-the-way-to-meet-mom/list?title_no=7525) |
 | Delusion | 현혹 | Thriller | [[INFO]](https://anilist.co/manga/121775/Hyeonhok/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=734040) [[ENG]](https://www.webtoons.com/en/thriller/delusion/list?title_no=2470) |
+| Villains Are Destined to Die | 악역의 엔딩은 죽음뿐 | Romance | [[INFO]](https://anilist.co/manga/118408/Agyeogui-Ending-Jugeumppun/) [[KOR]](https://page.kakao.com/content/54845189) [[ENG]](https://tapas.io/series/villains-are-destined-to-die/info) |
+| Under the Oak Tree | 상수리나무 아래 | Romance | [[INFO]](https://anilist.co/manga/123739/Sangsurinamu-Arae/) [[KOR]](https://ridibooks.com/books/4362000001) [[ENG]](https://manta.net/en/series/under-the-oak-tree?seriesId=1255) |
+| Murim RPG Simulation | 천마육성 | Wuxia | [[INFO]](https://anilist.co/manga/141076/Cheonmayukseong/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=776255) [[ENG]](https://www.webtoons.com/en/action/murim-rpg-simulation/list?title_no=3779) |
 | To be continue... | | | |
 
 ## manga (Japan)
