@@ -22,6 +22,7 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Villains Are Destined to Die | 악역의 엔딩은 죽음뿐 | Romance | [[INFO]](https://anilist.co/manga/118408/Agyeogui-Ending-Jugeumppun/) [[KOR]](https://page.kakao.com/content/54845189) [[ENG]](https://tapas.io/series/villains-are-destined-to-die/info) |
 | Under the Oak Tree | 상수리나무 아래 | Romance | [[INFO]](https://anilist.co/manga/123739/Sangsurinamu-Arae/) [[KOR]](https://ridibooks.com/books/4362000001) [[ENG]](https://manta.net/en/series/under-the-oak-tree?seriesId=1255) |
 | Murim RPG Simulation | 천마육성 | Wuxia | [[INFO]](https://anilist.co/manga/141076/Cheonmayukseong/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=776255) [[ENG]](https://www.webtoons.com/en/action/murim-rpg-simulation/list?title_no=3779) |
+| Author of My Own Destiny | 내 남자 주인공의 아내가 되었다 | Romance | [[INFO]](https://anilist.co/manga/138655/Nae-Namja-Juingongui-Anaega-Doeeotda/) [[KOR]](https://page.kakao.com/content/57746592) [[ENG]](https://tapas.io/series/author-of-my-own-destiny/info) |
 | To be continue... | | | |
 
 ## manga (Japan)
