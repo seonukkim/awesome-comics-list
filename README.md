@@ -23,6 +23,13 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Under the Oak Tree | 상수리나무 아래 | Romance | [[INFO]](https://anilist.co/manga/123739/Sangsurinamu-Arae/) [[KOR]](https://ridibooks.com/books/4362000001) [[ENG]](https://manta.net/en/series/under-the-oak-tree?seriesId=1255) |
 | Murim RPG Simulation | 천마육성 | Wuxia | [[INFO]](https://anilist.co/manga/141076/Cheonmayukseong/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=776255) [[ENG]](https://www.webtoons.com/en/action/murim-rpg-simulation/list?title_no=3779) |
 | Author of My Own Destiny | 내 남자 주인공의 아내가 되었다 | Romance | [[INFO]](https://anilist.co/manga/138655/Nae-Namja-Juingongui-Anaega-Doeeotda/) [[KOR]](https://page.kakao.com/content/57746592) [[ENG]](https://tapas.io/series/author-of-my-own-destiny/info) |
+| The Villainess Flips the Script! | 장르를 바꿔보도록 하겠습니다 | Romance | [[INFO]](https://anilist.co/manga/133038/Jangneureul-Bakkwobodorok-Hagetseumnida/) [[KOR]](https://page.kakao.com/content/56934318) [[ENG]](https://tapas.io/series/the-villainess-flips-the-script/info) |
+| Doctor Elise | 외과의사 엘리제 | Romance | [[INFO]](https://anilist.co/manga/107918/Oegwauisa-Elise/) [[KOR]](https://ridibooks.com/books/1434014418) [[ENG]](https://manta.net/en/series/doctor-elise?seriesId=3172) |
+| Into the Light, Once Again | 다시 한번, 빛 속으로 | Romance | [[INFO]](https://anilist.co/manga/139339/Dasi-Han-Beon-Bin-Sogeuro/) [[KOR]](https://page.kakao.com/content/57770713) [[ENG]](https://tapas.io/series/into-the-light-once-again/info) |
+| What It Means to Be You | 당신의 이해를 돕기 위하여 | Romance | [[INFO]](https://anilist.co/manga/130660/Dangsinui-Ihaereul-Dopgi-Wihayeo/) [[KOR]](https://page.kakao.com/content/56657309) [[ENG]](https://tapas.io/series/what-it-means-to-be-you/info) |
+| For Better or For Worse | 다행인지 불행인지 | Romance | [[INFO]](https://anilist.co/manga/126284/Dahaenginji-Bulhaenginji/) [[KOR]](https://page.kakao.com/content/55847520) [[ENG]](https://tapas.io/series/for-better-or-for-worse/info) |
+| Cassmire: The Loyal Sword | 충직한 검이 되려 했는데 | Romance | [[INFO]](https://anilist.co/manga/148369/Chungjikan-Geomi-Doeryeo-Haenneunde/) [[KOR]](https://page.kakao.com/content/59087644) [[ENG]](https://tapas.io/series/cassmire-the-loyal-sword/info) |
+| The Tears of a Jester | 어릿광대의 우울 | Drama | [[INFO]](https://anilist.co/manga/144658/Eoritgwangdaeui-Uul/) [[KOR]](https://ridibooks.com/books/4158000302) [[ENG]](https://manta.net/en/series/the-tears-of-a-jester?seriesId=1264) |
 | To be continue... | | | |
 
 ## manga (Japan)
