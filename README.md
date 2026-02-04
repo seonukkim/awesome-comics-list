@@ -31,6 +31,7 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Cassmire: The Loyal Sword | 충직한 검이 되려 했는데 | Romance | [[INFO]](https://anilist.co/manga/148369/Chungjikan-Geomi-Doeryeo-Haenneunde/) [[KOR]](https://page.kakao.com/content/59087644) [[ENG]](https://tapas.io/series/cassmire-the-loyal-sword/info) |
 | The Tears of a Jester | 어릿광대의 우울 | Drama | [[INFO]](https://anilist.co/manga/144658/Eoritgwangdaeui-Uul/) [[KOR]](https://ridibooks.com/books/4158000302) [[ENG]](https://manta.net/en/series/the-tears-of-a-jester?seriesId=1264) |
 | Long Way of the Warrior(-) | 무사만리행 | Action | [[INFO]](https://anilist.co/manga/122082/Musa-Mallihaeng/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=746857) |
+| The Reincarnated King of Fists | 권왕전생 | Fantasy | [[INFO]](https://anilist.co/manga/176812/Gwonwangjeonsaeng/) [[KOR]](https://page.kakao.com/content/63857471) [[ENG]](https://tapas.io/series/the-reincarnated-king-of-fists/info) |
 | To be continue... | | | |
 
 ## manga (Japan)
