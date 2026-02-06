@@ -62,3 +62,8 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | To be continue... | | | |
 
 <!-- | GACHIAKUTA Season 2 | ガチアクタ 第2期 | Fantasy | | -->
+
+## game
+| title | info | highlight |
+| :--- | :--- | :--- |
+| Genshin Impact | [[PV]](https://youtu.be/aCNNqHEMA9A) | to be continue... |
