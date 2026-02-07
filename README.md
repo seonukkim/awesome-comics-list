@@ -59,6 +59,12 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Violet Evergarden: Eternity and the Auto Memory Doll | ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 - | Drama | [[PV]](https://youtu.be/lWRXk7nOhsE) |
 | Violet Evergarden: The Movie | 劇場版 ヴァイオレット・エヴァーガーデン | Drama | [[PV]](https://youtu.be/Zy1K_gDXUOE) |
 | GACHIAKUTA | ガチアクタ | Fantasy | [[PV]](https://youtu.be/VpMwWDgZqtI) |
+| Bungo Stray Dogs | 文豪ストレイドッグス | Fantasy | [[PV]](https://youtu.be/4VBmThJ3AZM) |
+| Bungo Stray Dogs Season 2 | 文豪ストレイドッグス第2シーズン | Fantasy | [[PV]](https://youtu.be/aeX94e7V0_w) |
+| Bungo Stray Dogs Season 3 | 文豪ストレイドッグス第3シーズン | Fantasy | [[PV]](https://youtu.be/Bro64355Kws) |
+| Bungo Stray Dogs Season 4 | 文豪ストレイドッグス第4シーズン | Fantasy | [[PV]](https://youtu.be/z9ZhVooqA-Y) |
+| Bungo Stray Dogs Season 5 | 文豪ストレイドッグス第5シーズン | Fantasy | [[PV]](https://youtu.be/1eCDPSa6Faw) |
+| Bungou Stray Dogs: Dead Apple | 文豪ストレイドッグス DEAD APPLE | Fantasy | [[PV]](https://youtu.be/6ySfGSAbNc0) |
 | To be continue... | | | |
 
 <!-- | GACHIAKUTA Season 2 | ガチアクタ 第2期 | Fantasy | | -->
