@@ -33,6 +33,10 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Long Way of the Warrior(-) | 무사만리행 | Action | [[INFO]](https://anilist.co/manga/122082/Musa-Mallihaeng/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=746857) |
 | The Reincarnated King of Fists | 권왕전생 | Fantasy | [[INFO]](https://anilist.co/manga/176812/Gwonwangjeonsaeng/) [[KOR]](https://page.kakao.com/content/63857471) [[ENG]](https://tapas.io/series/the-reincarnated-king-of-fists/info) |
 | Return of the Blossoming Blade | 화산귀환 | Wuxia | [[INFO]](https://anilist.co/manga/132144/Hwasangwihwan/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=769209) [[ENG]](https://www.webtoons.com/en/action/return-of-the-blossoming-blade/list?title_no=2849) |
+| Reincarnated as an Unruly Heir | 망나니 소교주로 환생했다 | Wuxia | [[INFO]](https://anilist.co/manga/138397/Mangnani-Sogyojuro-Hwansaenghaetda/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=773796) [[ENG]](https://www.webtoons.com/en/action/reincarnated-as-an-unruly-heir/list?title_no=3597) |
+| Pampered Prisoners: Elves Among Orcs | 오크의 포로가 된 엘프 여사령관 | Comedy | [[KOR]](https://www.lezhin.com/ko/comic/totokkan) [[ENG]](https://www.lezhinus.com/en/comic/pamperedprisonerselvesamongorcs) |
+| Cats are Masters of The World (-) | 지구의 주인은 고양이다 | Comedy | [[INFO]](https://anilist.co/manga/117921/Jigueui-Juineun-Goyangida/) [[KOR]](https://page.kakao.com/content/54591353) |
+| The Age of Arrogance | 오만의 시대 | Romance | [[INFO]](https://anilist.co/manga/170780/Omane-Sidae/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=814538) [[ENG]](https://www.webtoons.com/en/fantasy/the-age-of-arrogance/list?title_no=5839) |
 | To be continue... | | | |
 
 ## manga (Japan)
