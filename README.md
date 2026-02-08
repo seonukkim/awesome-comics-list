@@ -37,6 +37,7 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Pampered Prisoners: Elves Among Orcs | 오크의 포로가 된 엘프 여사령관 | Comedy | [[KOR]](https://www.lezhin.com/ko/comic/totokkan) [[ENG]](https://www.lezhinus.com/en/comic/pamperedprisonerselvesamongorcs) |
 | Cats are Masters of The World (-) | 지구의 주인은 고양이다 | Comedy | [[INFO]](https://anilist.co/manga/117921/Jigueui-Juineun-Goyangida/) [[KOR]](https://page.kakao.com/content/54591353) |
 | The Age of Arrogance | 오만의 시대 | Romance | [[INFO]](https://anilist.co/manga/170780/Omane-Sidae/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=814538) [[ENG]](https://www.webtoons.com/en/fantasy/the-age-of-arrogance/list?title_no=5839) |
+| The Villainess Lives Again | 악녀는 두 번 산다 | Drama | [[INFO]](https://anilist.co/manga/119523/Agnyeoneun-du-Beon-Sanda/) [[KOR]](https://page.kakao.com/content/55021766) [[ENG]](https://tapas.io/series/the-villainess-lives-again/info) |
 | To be continue... | | | |
 
 ## manga (Japan)
