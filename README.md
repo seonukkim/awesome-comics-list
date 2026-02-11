@@ -57,6 +57,8 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Spirit of Wonder | スピリットオブワンダー | 스피릿 오브 원더 | Steampunk | [[INFO]](https://anilist.co/manga/30864/Spirit-of-Wonder/) [[JAP*]](https://books.rakuten.co.jp/rk/59305e56124945be8c8e7e98e2db68e4/?l-id=search-c-item-img-01) [[ENG*]](https://www.amazon.com/gp/product/1569712883) [[KOR*]](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=15496371) |
 | The Witch's Bloody Paintings(-) | 魔女の怪画集 | 마녀의 괴화집 | Fantasy | [[INFO]](https://anilist.co/manga/107206/Majo-no-Kaigashuu/) [[JAP]](https://shonenjumpplus.com/episode/10834108156740272819) [[KOR]](https://ridibooks.com/books/1019011864) |
 | The Witch and the Beast | 魔女と野獣 | 마녀와 야수 | Fantasy | [[INFO]](https://anilist.co/manga/100109/Majo-to-Yajuu/) [[JAP]](https://yanmaga.jp/comics/%E9%AD%94%E5%A5%B3%E3%81%A8%E9%87%8E%E7%8D%A3) [[KOR]](https://ridibooks.com/books/297022095) [[ENG]](https://www.kobo.com/gb/en/series/the-witch-and-the-beast-3?fcmedia=Book) |
+| Jormungand | ヨルムンガンド | 요르문간드 | Adventure | [[INFO]](https://anilist.co/manga/34611/Jormungand/) [[JAP]](https://shogakukan-comic.jp/book?isbn=9784091570697) [[KOR]](https://ridibooks.com/books/1019004026) [[ENG]](https://www.kobo.com/us/en/series/Jormungand?fcmedia=Book) |
+| CLAYMORE | クレイモア | 클레이모어 | Fanstay | [[INFO]](https://anilist.co/manga/30583/CLAYMORE/) [[JAP]](https://shonenjumpplus.com/episode/13932016480029012552) [[KOR]](https://ridibooks.com/books/1019001430) [[ENG]](https://www.kobo.com/us/en/series/claymore?fcmedia=Book) |
 | To be continue... | | | |
 
 ## anime
