@@ -74,6 +74,7 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Bungo Stray Dogs Season 4 | 文豪ストレイドッグス第4シーズン | Fantasy | [[PV]](https://youtu.be/z9ZhVooqA-Y) |
 | Bungo Stray Dogs Season 5 | 文豪ストレイドッグス第5シーズン | Fantasy | [[PV]](https://youtu.be/1eCDPSa6Faw) |
 | Bungou Stray Dogs: Dead Apple | 文豪ストレイドッグス DEAD APPLE | Fantasy | [[PV]](https://youtu.be/6ySfGSAbNc0) |
+| Fate/strange Fake | Fate/strange Fake | [[PV]](https://youtu.be/k1G8EvZg_BY) |
 | To be continue... | | | |
 
 <!-- | GACHIAKUTA Season 2 | ガチアクタ 第2期 | Fantasy | | -->
