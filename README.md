@@ -38,6 +38,8 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Cats are Masters of The World (-) | 지구의 주인은 고양이다 | Comedy | [[INFO]](https://anilist.co/manga/117921/Jigueui-Juineun-Goyangida/) [[KOR]](https://page.kakao.com/content/54591353) |
 | The Age of Arrogance | 오만의 시대 | Romance | [[INFO]](https://anilist.co/manga/170780/Omane-Sidae/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=814538) [[ENG]](https://www.webtoons.com/en/fantasy/the-age-of-arrogance/list?title_no=5839) |
 | The Villainess Lives Again | 악녀는 두 번 산다 | Drama | [[INFO]](https://anilist.co/manga/119523/Agnyeoneun-du-Beon-Sanda/) [[KOR]](https://page.kakao.com/content/55021766) [[ENG]](https://tapas.io/series/the-villainess-lives-again/info) |
+| I Shall Master this Family | 이번 생은 가주가 되겠습니다 | Romance | [[INFO]](https://anilist.co/manga/130429/Ibeon-Saengeun-Gajuga-Doegetseumnida/) [[KOR]](https://page.kakao.com/content/56566288) [[ENG]](https://tapas.io/series/i-shall-master-this-family/info) |
+| Return of the War God | 무신귀환록 | Wuxia | [[INFO]](https://anilist.co/manga/150319/Musingwihwallok/) [[KOR]](https://page.kakao.com/content/59492385) [[ENG]](https://tapas.io/series/return-of-the-war-god/info) |
 | To be continue... | | | |
 
 ## manga (Japan)
