@@ -62,6 +62,7 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | The Witch and the Beast | 魔女と野獣 | 마녀와 야수 | Fantasy | [[INFO]](https://anilist.co/manga/100109/Majo-to-Yajuu/) [[JAP]](https://yanmaga.jp/comics/%E9%AD%94%E5%A5%B3%E3%81%A8%E9%87%8E%E7%8D%A3) [[KOR]](https://ridibooks.com/books/297022095) [[ENG]](https://www.kobo.com/gb/en/series/the-witch-and-the-beast-3?fcmedia=Book) |
 | Jormungand | ヨルムンガンド | 요르문간드 | Adventure | [[INFO]](https://anilist.co/manga/34611/Jormungand/) [[JAP]](https://shogakukan-comic.jp/book?isbn=9784091570697) [[KOR]](https://ridibooks.com/books/1019004026) [[ENG]](https://www.kobo.com/us/en/series/Jormungand?fcmedia=Book) |
 | CLAYMORE | クレイモア | 클레이모어 | Fanstay | [[INFO]](https://anilist.co/manga/30583/CLAYMORE/) [[JAP]](https://shonenjumpplus.com/episode/13932016480029012552) [[KOR]](https://ridibooks.com/books/1019001430) [[ENG]](https://www.kobo.com/us/en/series/claymore?fcmedia=Book) |
+| Nisekoi: False Love | ニセコイ | 니세코이 | Romance | [[INFO]](https://anilist.co/manga/61499/Nisekoi/) [[JAP]](https://shonenjumpplus.com/episode/10833519556325021840) [[KOR]](https://ridibooks.com/books/1019005027) [[ENG]](https://www.kobo.com/ww/en/series/nisekoi-false-love?fcmedia=Book) |
 | To be continue... | | | |
 
 ## anime
