@@ -63,6 +63,7 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Jormungand | ヨルムンガンド | 요르문간드 | Adventure | [[INFO]](https://anilist.co/manga/34611/Jormungand/) [[JAP]](https://shogakukan-comic.jp/book?isbn=9784091570697) [[KOR]](https://ridibooks.com/books/1019004026) [[ENG]](https://www.kobo.com/us/en/series/Jormungand?fcmedia=Book) |
 | CLAYMORE | クレイモア | 클레이모어 | Fanstay | [[INFO]](https://anilist.co/manga/30583/CLAYMORE/) [[JAP]](https://shonenjumpplus.com/episode/13932016480029012552) [[KOR]](https://ridibooks.com/books/1019001430) [[ENG]](https://www.kobo.com/us/en/series/claymore?fcmedia=Book) |
 | Nisekoi: False Love | ニセコイ | 니세코이 | Romance | [[INFO]](https://anilist.co/manga/61499/Nisekoi/) [[JAP]](https://shonenjumpplus.com/episode/10833519556325021840) [[KOR]](https://ridibooks.com/books/1019005027) [[ENG]](https://www.kobo.com/ww/en/series/nisekoi-false-love?fcmedia=Book) |
+| Berserk | ベルセルク | 베르세르크 | Fanstasy | [[INFO]](https://anilist.co/manga/30002/Berserk/) [[JAP]](https://younganimal.com/series/f68f676b354d4) [[KOR]](https://ridibooks.com/books/297009158) [[ENG]](https://www.kobo.com/us/en/series/berserk?fcmedia=Book) |
 | To be continue... | | | |
 
 ## anime
