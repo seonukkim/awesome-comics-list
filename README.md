@@ -64,6 +64,7 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | CLAYMORE | クレイモア | 클레이모어 | Fanstay | [[INFO]](https://anilist.co/manga/30583/CLAYMORE/) [[JAP]](https://shonenjumpplus.com/episode/13932016480029012552) [[KOR]](https://ridibooks.com/books/1019001430) [[ENG]](https://www.kobo.com/us/en/series/claymore?fcmedia=Book) |
 | Nisekoi: False Love | ニセコイ | 니세코이 | Romance | [[INFO]](https://anilist.co/manga/61499/Nisekoi/) [[JAP]](https://shonenjumpplus.com/episode/10833519556325021840) [[KOR]](https://ridibooks.com/books/1019005027) [[ENG]](https://www.kobo.com/ww/en/series/nisekoi-false-love?fcmedia=Book) |
 | Berserk | ベルセルク | 베르세르크 | Fanstasy | [[INFO]](https://anilist.co/manga/30002/Berserk/) [[JAP]](https://younganimal.com/series/f68f676b354d4) [[KOR]](https://ridibooks.com/books/297009158) [[ENG]](https://www.kobo.com/us/en/series/berserk?fcmedia=Book) |
+| Attack on Titan | 進撃の巨人 | 진격의 거인 | Fantasy | [[INFO]](https://anilist.co/manga/53390/Shingeki-no-Kyojin/) [[JAP]](http://pocket.shonenmagazine.com/title/00101/episode/140352) [[KOR]](https://ridibooks.com/books/505001532) [[ENG]](http://kobo.com/ww/en/series/attack-on-titan?fcmedia=Book) |
 | To be continue... | | | |
 
 ## anime
