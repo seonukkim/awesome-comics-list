@@ -66,6 +66,7 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Berserk | ベルセルク | 베르세르크 | Fanstasy | [[INFO]](https://anilist.co/manga/30002/Berserk/) [[JAP]](https://younganimal.com/series/f68f676b354d4) [[KOR]](https://ridibooks.com/books/297009158) [[ENG]](https://www.kobo.com/us/en/series/berserk?fcmedia=Book) |
 | Attack on Titan | 進撃の巨人 | 진격의 거인 | Fantasy | [[INFO]](https://anilist.co/manga/53390/Shingeki-no-Kyojin/) [[JAP]](http://pocket.shonenmagazine.com/title/00101/episode/140352) [[KOR]](https://ridibooks.com/books/505001532) [[ENG]](http://kobo.com/ww/en/series/attack-on-titan?fcmedia=Book) |
 | Witch Hat Atelier | とんがり帽子のアトリエ | 고깔모자의 아틀리에 | Fantasy | [[INFO]](https://anilist.co/manga/98263/Tongari-Boushi-no-Atelier/) [[JAP]](https://comic-days.com/episode/13932016480031217072) [[KOR]](https://ridibooks.com/books/505015425) [[ENG]](https://www.kobo.com/ww/en/series/witch-hat-atelier-1?fcmedia=Book) |
+| Jujutsu Kaisen | 呪術廻戦 | 주술회전 | Fantasy | [[INFO]](https://anilist.co/manga/101517/Jujutsu-Kaisen/) [[JAP]](https://shonenjumpplus.com/episode/10834108156650001170) [[KOR]](https://ridibooks.com/books/1019009783) [[ENG]](https://www.kobo.com/ww/en/series/jujutsu-kaisen?fcmedia=Book) |
 | To be continue... | | | |
 
 ## anime
