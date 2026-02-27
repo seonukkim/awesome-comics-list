@@ -85,6 +85,7 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Bungou Stray Dogs: Dead Apple | 文豪ストレイドッグス DEAD APPLE | Fantasy | [[PV]](https://youtu.be/6ySfGSAbNc0) |
 | Fate/strange Fake | Fate/strange Fake | Fantasy | [[PV]](https://youtu.be/k1G8EvZg_BY) |
 | Fate/Zero | Fate/Zero | Fantasy | [[PV]](https://youtu.be/0hHLBioyUaA) |
+| Fate/stay night [Unlimited Blade Works] | Fate/stay night [Unlimited Blade Works] | Fantasy | [[PV]](https://youtu.be/nWK4t0_iVNo) |
 | To be continue... | | | |
 
 <!-- | GACHIAKUTA Season 2 | ガチアクタ 第2期 | Fantasy | | -->
