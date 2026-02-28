@@ -96,3 +96,4 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Genshin Impact | [[PV]](https://youtu.be/aCNNqHEMA9A) | to be continue... |
 | Honkai: Star Rail | [[PV]](https://youtu.be/-XsKGCFgNQA) | to be continue... |
 | TSUKIHIME -A piece of blue glass moon- | [[PV]](https://youtu.be/sMEuZGHbv-c) | |
+| Fate/stay night | [[OP1]](https://youtu.be/R9MS3Pwzrio) [[OP2]](https://youtu.be/6ZQ5qOsovvI) [[OP3]](https://youtu.be/KnC3QyXawqY) |
