@@ -86,6 +86,7 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Fate/strange Fake | Fate/strange Fake | Fantasy | [[PV]](https://youtu.be/k1G8EvZg_BY) |
 | Fate/Zero | Fate/Zero | Fantasy | [[PV]](https://youtu.be/0hHLBioyUaA) |
 | Fate/stay night [Unlimited Blade Works] | Fate/stay night [Unlimited Blade Works] | Fantasy | [[PV]](https://youtu.be/VmaEwaH_90c) |
+| Dororo | どろろ | Action | [[PV]](https://youtu.be/Fuph-DDesSA) |
 | To be continue... | | | |
 
 <!-- | GACHIAKUTA Season 2 | ガチアクタ 第2期 | Fantasy | | -->
