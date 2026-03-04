@@ -98,3 +98,4 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Honkai: Star Rail | [[PV]](https://youtu.be/-XsKGCFgNQA) | to be continue... |
 | TSUKIHIME -A piece of blue glass moon- | [[PV]](https://youtu.be/sMEuZGHbv-c) [[OP1]](https://youtu.be/9B282GYZqCg) [[OP2]](https://youtu.be/7bu39dMD5MA) | |
 | Fate/stay night | [[OP1]](https://youtu.be/R9MS3Pwzrio) [[OP2]](https://youtu.be/6ZQ5qOsovvI) [[OP3]](https://youtu.be/KnC3QyXawqY) | |
+| Fate/hollow ataraxia | [[OP1]](https://youtu.be/1-qB7ZknWEc) [[OP2]](https://youtu.be/fmaLHyHK-Yk) | |
