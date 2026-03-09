@@ -41,6 +41,7 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | I Shall Master this Family | 이번 생은 가주가 되겠습니다 | Romance | [[INFO]](https://anilist.co/manga/130429/Ibeon-Saengeun-Gajuga-Doegetseumnida/) [[KOR]](https://page.kakao.com/content/56566288) [[ENG]](https://tapas.io/series/i-shall-master-this-family/info) |
 | Return of the War God | 무신귀환록 | Wuxia | [[INFO]](https://anilist.co/manga/150319/Musingwihwallok/) [[KOR]](https://page.kakao.com/content/59492385) [[ENG]](https://tapas.io/series/return-of-the-war-god/info) |
 | I Raised a Villain | 악당을 업어 키웠더니 | Romance | [[INFO]](https://anilist.co/manga/186648/Akdangeul-Eobeo-Kiwotdeoni/) [[KOR]](https://comic.naver.com/webtoon/list?titleId=832126) [[ENG]](https://www.webtoons.com/en/romance/i-raised-a-villain/list?title_no=7646) |
+| アリス、アリス(-) | 앨리스, 앨리스 | Alice, Alice(-) | [[KOR]](https://ridibooks.com/books/371003394) |
 | To be continue... | | | |
 
 ## manga (Japan)
