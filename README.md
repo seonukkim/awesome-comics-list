@@ -70,7 +70,10 @@ __주의: 직접 본 작품 중 취향에 맞는 작품만을 선별한 리스�
 | Jujutsu Kaisen | 呪術廻戦 | 주술회전 | Fantasy | [[INFO]](https://anilist.co/manga/101517/Jujutsu-Kaisen/) [[JAP]](https://shonenjumpplus.com/episode/10834108156650001170) [[KOR]](https://ridibooks.com/books/1019009783) [[ENG]](https://www.kobo.com/ww/en/series/jujutsu-kaisen?fcmedia=Book) |
 | My Hero Academia | 僕のヒーローアカデミア | 나의 히어로 아카데미아 | Fantasy | [[INFO]](https://anilist.co/manga/85486/Boku-no-Hero-Academia/) [[JAP]](https://shonenjumpplus.com/episode/10833519556325021790) [[KOR]](https://ridibooks.com/books/1019006513) [[ENG]](https://www.kobo.com/ww/en/series/my-hero-academia?fcmedia=Book) |
 | Hell's Paradise: Jigokuraku | 地獄楽 | 지옥락 | Fantasy | [[INFO]](https://anilist.co/manga/100994/Jigokuraku/) [[JAP]](https://shonenjumpplus.com/episode/13932016480029295972) [[KOR]](https://ridibooks.com/books/1019019803) [[ENG]](https://www.kobo.com/ww/en/series/hell-s-paradise-jigokuraku?fcmedia=Book) |
+| SAKAMOTO DAYS | サカモトデイズ | 사카모토 데이즈 | Action | [[INFO]](https://anilist.co/manga/125828/SAKAMOTO-DAYS/) [[JAP]](https://shonenjumpplus.com/episode/3269754496468136056) [[KOR]](https://ridibooks.com/books/1019065487) [[ENG]](https://mangaplus.shueisha.co.jp/titles/100127) |
 | To be continue... | | | |
+
+<!-- 극락가 -->
 
 ## anime
 | title | title (original) | genre | info |
